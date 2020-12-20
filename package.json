@@ -1,0 +1,14 @@
+{
+  "name": "idea-erc",
+  "version": "1.0.0",
+  "description": "a token for any kind of idea (art or scientific advancements or...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "felix paul niemeyer",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.3.0"
+  }
+}
